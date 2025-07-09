@@ -1,6 +1,6 @@
 🎧 Spotify Streaming Dashboard
 
-A single-page Power BI dashboard designed to analyze Spotify streaming data with a focus on track performance, music availability, and listener behavior. 
+A single-page Power BI dashboard designed to analyze Spotify streaming data with a focus on track performance, music availability, and listener behavior.
 
 Visual Insights Include:
 
@@ -10,6 +10,6 @@ Visual Insights Include:
 
 📂 Catalog Composition – Number of songs available on Spotify by release year
 
-👑 Track Spotlight – Key stats of the most streamed track
+👑 Track Spotlight – Key stats of the most-streamed track
 
-Note: The dataset was sourced from Kaggle community contributed data.
+Note: The dataset was sourced from the Kaggle community's contributed data.
